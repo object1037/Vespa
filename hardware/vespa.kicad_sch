@@ -3541,16 +3541,16 @@
 		(uuid "00589fb4-e6d8-497e-ba7b-ff9adb80fdd4")
 	)
 	(no_connect
-		(at 44.45 139.7)
-		(uuid "24cdfa98-d0af-4f6c-ac9e-d1719735cf53")
-	)
-	(no_connect
 		(at 54.61 76.2)
 		(uuid "b5a3e7b6-effb-4474-9abd-bca8b2ebef44")
 	)
 	(no_connect
 		(at 52.07 76.2)
 		(uuid "dd616df6-9e7b-455c-b1fc-e30a74ac27c9")
+	)
+	(no_connect
+		(at 44.45 139.7)
+		(uuid "e14fa294-cab5-4240-b14b-4ec32be4f347")
 	)
 	(no_connect
 		(at 81.28 153.67)
@@ -4947,7 +4947,7 @@
 		(uuid "390bbfdb-b667-494c-bbda-e8b56ddd4aab")
 	)
 	(label "row2"
-		(at 29.21 53.34 180)
+		(at 29.21 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4997,7 +4997,7 @@
 		(uuid "5b8215d7-cda5-4cd9-a7d5-5623436c83b5")
 	)
 	(label "row3"
-		(at 29.21 55.88 180)
+		(at 29.21 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9787,7 +9787,6 @@
 	(symbol
 		(lib_id "Switch:SW_SPDT")
 		(at 39.37 137.16 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9795,7 +9794,7 @@
 		(dnp no)
 		(uuid "7ce8a7bd-6a9b-4d3c-b3a7-d19886f0d370")
 		(property "Reference" "SW54"
-			(at 39.37 146.05 0)
+			(at 39.37 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9803,14 +9802,14 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 39.37 143.51 0)
+			(at 39.37 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "My_lib:SS-12D00"
+		(property "Footprint" "My_lib:SW_SPDT_IS-1245T"
 			(at 39.37 137.16 0)
 			(effects
 				(font
@@ -9819,8 +9818,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 39.37 129.54 0)
+		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g115368/"
+			(at 39.37 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
