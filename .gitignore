@@ -3,4 +3,5 @@ vespa-backups
 \#auto_saved_files#
 fp-info-cache
 .DS_Store
+**/*.step
 
