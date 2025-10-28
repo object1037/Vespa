@@ -1,0 +1,41 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.3*%
+%TF.CreationDate,2025-10-28T23:39:32+09:00*%
+%TF.ProjectId,vespa_bottom_plate,76657370-615f-4626-9f74-746f6d5f706c,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.3) date 2025-10-28 23:39:32*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,2.200000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,Ref\u002A\u002A*%
+X213995000Y-145415000D03*
+%TD*%
+%TO.C,Ref\u002A\u002A*%
+X300355000Y-71120000D03*
+%TD*%
+%TO.C,Ref\u002A\u002A*%
+X36195000Y-71120000D03*
+%TD*%
+%TO.C,Ref\u002A\u002A*%
+X300355000Y-138430000D03*
+%TD*%
+%TO.C,Ref\u002A\u002A*%
+X179705000Y-88900000D03*
+%TD*%
+%TO.C,Ref\u002A\u002A*%
+X122555000Y-145415000D03*
+%TD*%
+%TO.C,Ref\u002A\u002A*%
+X36195000Y-138430000D03*
+%TD*%
+%TO.C,Ref\u002A\u002A*%
+X156845000Y-88900000D03*
+%TD*%
+M02*

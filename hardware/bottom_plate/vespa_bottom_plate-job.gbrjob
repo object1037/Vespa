@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.3"
     },
-    "CreationDate": "2025-10-28T00:37:02+09:00"
+    "CreationDate": "2025-10-28T23:39:32+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -43,9 +43,24 @@
       "FilePolarity": "Positive"
     },
     {
+      "Path": "vespa_bottom_plate-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "vespa_bottom_plate-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "vespa_bottom_plate-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "vespa_bottom_plate-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
       "Path": "vespa_bottom_plate-Edge_Cuts.gbr",
