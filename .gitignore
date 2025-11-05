@@ -4,4 +4,5 @@ vespa-backups
 fp-info-cache
 .DS_Store
 **/*.step
+!hardware/vespa_case.step
 
