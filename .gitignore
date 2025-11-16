@@ -3,6 +3,5 @@
 \#auto_saved_files#
 fp-info-cache
 .DS_Store
-**/*.step
-!hardware/vespa_case.step
+hardware/*.step
 
